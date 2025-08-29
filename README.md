@@ -16,7 +16,7 @@ This project showcases the ability to follow a clear annotation brief, maintain 
 
 Here is an example of a completed annotation from the dataset:
 
-*(We will add a screenshot here in a moment)*
+![Sample Annotation](example_annotation.png)
 
 ## Project Structure
 
